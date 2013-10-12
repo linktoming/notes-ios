@@ -5,7 +5,7 @@
 2. Source Control: git (local, gitlab, github, bitbucket), SourceTree
 3. Xcode Plugins
     1. [Alcatraz](http://mneorr.github.io/Alcatraz/): A Package Manager for Xcode 
-4. Documentation: CocoaDocs and Dash
+4. Documentation: CocoaDocs and Dash  
 CocoaPods
 
 ### Talks and Articles on Development Practice
