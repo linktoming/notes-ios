@@ -11,6 +11,12 @@ CocoaPods
 ### Talks and Articles on Development Practice
 1. [How We Built Facebook for iOS](http://www.youtube.com/watch?v=I5RqcYzrY4Y)
 
+### Technical Blogs and Tutorials
+1. [Ray Wenderlich](http://www.raywenderlich.com/)
+1. [[iOS developer:tips];](iosdevelopertips.com)
+1. [ASCIIwwdc](http://asciiwwdc.com/)
+
+
 ### Reference
 1. [iOS Dev Tools](http://ios.devtools.me/)
 2. [How We Built Facebook for iOS](http://www.youtube.com/watch?v=I5RqcYzrY4Y)
