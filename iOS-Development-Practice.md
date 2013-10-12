@@ -17,6 +17,8 @@ CocoaPods
 1. [Objc.io](http://www.objc.io/)
 1. [[iOS developer:tips];](iosdevelopertips.com)
 1. [ASCIIwwdc](http://asciiwwdc.com/)
+1. [Try Objective-C](https://www.codeschool.com/courses/try-objective-c)
+1. [NSScreencast](http://nsscreencast.com/)
 
 
 ### Reference
