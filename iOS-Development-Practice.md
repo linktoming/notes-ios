@@ -13,6 +13,8 @@ CocoaPods
 
 ### Technical Blogs and Tutorials
 1. [Ray Wenderlich](http://www.raywenderlich.com/)
+1. [NSHipster](http://nshipster.com/)
+1. [Objc.io](http://www.objc.io/)
 1. [[iOS developer:tips];](iosdevelopertips.com)
 1. [ASCIIwwdc](http://asciiwwdc.com/)
 
